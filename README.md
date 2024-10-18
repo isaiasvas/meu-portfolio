@@ -5,7 +5,7 @@
 
 <p align="left"> 
 Desenvolvedor Full Stack com experiência em <strong>PHP (POO, Laravel, WordPress)</strong> e <strong>Python (Django)</strong>. 
-Apaixonado por desenvolver soluções focadas em <strong>performance</strong> e <strong>experiência do usuário**.</strong>
+Apaixonado por desenvolver soluções focadas em <strong>performance</strong> e <strong>experiência do usuário.</strong>
 </p>
 
 ## Stack Principal
