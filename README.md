@@ -4,8 +4,8 @@
 # Isaias Vitor de Almeida Silva
 
 <p align="left"> 
-Desenvolvedor Full Stack com experiência em **PHP (POO, Laravel, WordPress)** e **Python (Django)**. 
-Apaixonado por desenvolver soluções focadas em **performance** e **experiência do usuário**.
+Desenvolvedor Full Stack com experiência em <strong>PHP (POO, Laravel, WordPress)</strong> e <strong>Python (Django)</strong>. 
+Apaixonado por desenvolver soluções focadas em <strong>performance</strong> e <strong>experiência do usuário**.</strong>
 </p>
 
 ## Stack Principal
