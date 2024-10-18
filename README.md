@@ -14,7 +14,7 @@ Apaixonado por desenvolver soluções focadas em <strong>performance</strong> e 
 - **Ferramentas**: Docker, Git, Postman
 
 ## Projetos
-### [Sistema de Gestão de Estoque e Vendas](#link-do-repo)
+### [Sistema de Gestão de Estoque e Vendas](https://github.com/isaiasvas/stock-manager)
 Sistema completo de gestão de estoque com Django no back-end e React no front-end.
 
 ## Contato
