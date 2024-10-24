@@ -17,6 +17,9 @@ Apaixonado por desenvolver soluções focadas em <strong>performance</strong> e 
 ### [Sistema de Gestão de Estoque e Vendas](https://github.com/isaiasvas/stock-manager)
 Sistema completo de gestão de estoque com Django no back-end e React no front-end.
 
+### [Sistema de Gestão Financeira com agenda](https://github.com/isaiasvas/gestor-financeiro-agenda)
+Sistema completo de gestão de estoque com Django no back-end e React no front-end.
+
 ## Contato
 - **Email**: isaias@visioit.com.br
 - [LinkedIn](https://www.linkedin.com/in/isaiasvasilva)
